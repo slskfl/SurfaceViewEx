@@ -1,0 +1,3 @@
+include ':camerasurfaceviewex'
+include ':app'
+rootProject.name = "SurfaceViewEx"
